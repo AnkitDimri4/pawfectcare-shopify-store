@@ -1,6 +1,8 @@
 
 ---
 
+>  <img width="200" height="317" alt="trans" src="https://github.com/user-attachments/assets/1bbd28b3-9910-4e5f-ab88-db5282ece15e" />
+>
 > # PawfectCare – Pet Grooming Shopify Store
 > A **ready-to-sell demo Shopify store** built for the **pet grooming niche**, created as part of a **2-day intensive Shopify training and hiring assessment**.
 > This project demonstrates a **complete e-commerce store setup**, including branding, product collections, bundle offers, product reviews, and a fully tested **customer purchase journey** using a Shopify development store.
