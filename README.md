@@ -20,12 +20,12 @@
 You can explore the full store, add products or bundles to the cart, and simulate checkout using Shopify's **Bogus Gateway test payment**.
 
 <img width="1915" height="1036" alt="image" src="https://github.com/user-attachments/assets/b916a216-a1e8-4867-92dc-2eaa6ffb238e" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0329adfd-dc27-4a5b-bca3-f26eb8339610" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/14705758-50cb-4852-90dc-1c921c8e2759" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1c217223-682a-4003-90cc-ad1ac2b51485" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a5268ed6-414f-4e8e-b32b-0b690d8c3dd5" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f00c4a0e-8df4-4421-a23b-0428f12732e0" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8ce6137f-6ca9-48e3-983b-de0ac61585b0" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0329adfd-dc27-4a5b-bca3-f26eb8339610" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/14705758-50cb-4852-90dc-1c921c8e2759" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/1c217223-682a-4003-90cc-ad1ac2b51485" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a5268ed6-414f-4e8e-b32b-0b690d8c3dd5" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/f00c4a0e-8df4-4421-a23b-0428f12732e0" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/8ce6137f-6ca9-48e3-983b-de0ac61585b0" />
 
 ---
 
